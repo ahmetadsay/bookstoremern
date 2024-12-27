@@ -2,7 +2,12 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <header className='max-w-screen-2xl mx-auto px-4 py-6'>
+        <nav>
+            <div></div>
+            <div></div>
+        </nav>
+    </header>
   )
 }
 
